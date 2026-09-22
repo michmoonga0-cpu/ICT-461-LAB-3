@@ -104,7 +104,8 @@ I primarily focused on the backend API development using Express and implemented
 [Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
 
 ### Michelo  Harry Moonga -  202110843
-[Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
+In Task 1, I built an accessible, responsive course registration portal for Mulungushi University using semantic HTML5 (header, nav, main, footer) and CSS Grid/Flexbox. I implemented a structured form with required inputs and linked labels, ensuring full keyboard navigation using Tab and Enter.
+A major challenge was preventing horizontal overflow and maintaining visible focus indicators at smaller viewport widths (360 px). To resolve this, I implemented CSS media queries to switch from a multi-column grid to a single-column layout for mobile screens. I also added explicit :focus-visible outline styles to keep controls fully accessible without breaking the responsive layout.
 
 ### Siabonga Phiri - 202302370
 [Insert 100-word reflection here: Contribution, one mistake, and how it was verified/fixed.]
